@@ -1,0 +1,56 @@
+
+{
+    "bot_config": {
+        "server_id": 971052339265953832,
+        "logs": 971052339265953835, 
+        "prefix": "dan.",
+        "token": "",
+        "twitch_channel": "971278181933912075",
+        "twitch_channel_2": "971052339265953835"
+    },
+    "tfollow": {
+        "Premium +": 150,
+        "Premium": 800,
+        "Diamond": 500, 
+        "Gold": 200,
+        "Silver": 125,
+        "Premium +": 75,
+        "User": 0
+    },
+    "tfriend": {
+        "Premium +": 150,
+        "Premium": 480,
+        "Diamond ": 250,
+        "Gold": 120,
+        "Silver": 50,
+        "Bronze": 25,
+        "User": 5
+    },
+    "treport": {
+        "Premium +": 150,
+        "Premium": 480,
+        "Diamond ": 320,
+        "Gold": 240,
+        "Silver": 120,
+        "Bronze": 60,
+        "User": 5
+    },
+    "tspam": {
+        "Premium +": 10,
+        "Premium": 30,
+        "Diamond": 20,
+        "Gold": 15
+    },
+    "ttroll": {
+        "Premium +": 10,
+        "Premium": 30,
+        "Diamond": 20,
+        "Gold": 15
+    },
+    "traid": {
+        "Premium +": 10,
+        "Premium": 30,
+        "Diamond": 20,
+        "Gold": 15
+    }
+}
